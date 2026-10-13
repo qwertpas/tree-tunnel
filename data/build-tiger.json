@@ -1,0 +1,1 @@
+{"date":"2026-10-12","street_sections":2898,"samples":2536596,"missing_samples":0,"candidates":845,"length_km":76.2,"spacing_m":4,"center_offsets_m":[-2,0,2],"side_offsets_m":[[-8,-6,-4],[4,6,8]],"window_samples":9,"center_min":0.35,"side_min":0.2,"gap_max_m":8,"length_min_m":40,"score":"0.7 * center canopy fraction + 0.3 * minimum left/right canopy fraction"}

@@ -1,0 +1,346 @@
+[
+  {
+    "id": "aerial-1",
+    "candidate_id": "110809361232-1-0",
+    "name": "Mathilda Dr",
+    "coordinates": [
+      -119.88561407726527,
+      34.422755690938885
+    ],
+    "file": "data/photos/aerial-1.png",
+    "bbox_3857": [
+      -13345835.846526835,
+      4085479.6985558667,
+      -13345375.178513326,
+      4085940.366569377
+    ],
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -119.8857290001285,
+          34.42260399988346
+        ],
+        [
+          -119.88572900000001,
+          34.422604
+        ],
+        [
+          -119.885665,
+          34.422664000000005
+        ],
+        [
+          -119.885617,
+          34.422744
+        ],
+        [
+          -119.88560300000002,
+          34.42279999999999
+        ],
+        [
+          -119.885584,
+          34.422874
+        ],
+        [
+          -119.885584,
+          34.422945000000006
+        ]
+      ]
+    },
+    "score": 1.0,
+    "retained": true,
+    "source_url": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/export?bbox=-13345835.846526835%2C4085479.6985558667%2C-13345375.178513326%2C4085940.366569377&bboxSR=3857&imageSR=3857&size=800%2C800&format=png&f=image",
+    "credit": "USDA / USGS The National Map",
+    "license": "Public domain \u00b7 CONUS NAIP",
+    "date": "2017\u20132021 imagery",
+    "observation": "Highest-scoring Census result lies in woods beyond the visible Mathilda Drive dead end; unsuitable road geometry. Replace Census streets with OSM rather than tuning canopy thresholds around this error."
+  },
+  {
+    "id": "aerial-2",
+    "candidate_id": "110809347124-0-156",
+    "name": "E Anapamu St",
+    "coordinates": [
+      -119.69955191932743,
+      34.42795797822241
+    ],
+    "file": "data/photos/aerial-2.png",
+    "bbox_3857": [
+      -13325123.516183216,
+      4086181.759234488,
+      -13324662.81950187,
+      4086642.455915833
+    ],
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -119.69997010306969,
+          34.42756678493595
+        ],
+        [
+          -119.699939,
+          34.427596
+        ],
+        [
+          -119.69913367112889,
+          34.4283491027351
+        ]
+      ]
+    },
+    "score": 0.671,
+    "retained": true,
+    "source_url": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/export?bbox=-13325123.516183216%2C4086181.759234488%2C-13324662.81950187%2C4086642.455915833&bboxSR=3857&imageSR=3857&size=800%2C800&format=png&f=image",
+    "credit": "USDA / USGS The National Map",
+    "license": "Public domain \u00b7 CONUS NAIP",
+    "date": "2017\u20132021 imagery",
+    "observation": "Mature crowns repeat over the actual Anapamu roadway. Census alignment is approximately consistent with the pavement; published street-level reference supports the tunnel criterion."
+  },
+  {
+    "id": "aerial-3",
+    "candidate_id": "110809361126-0-0",
+    "name": "Las Olas Dr",
+    "coordinates": [
+      -119.77519657223988,
+      34.41595954893843
+    ],
+    "file": "data/photos/aerial-3.png",
+    "bbox_3857": [
+      -13333544.207372809,
+      4084562.6093060365,
+      -13333083.576799167,
+      4085023.239879676
+    ],
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -119.77395800000001,
+          34.41619299999999
+        ],
+        [
+          -119.774464,
+          34.416059999999995
+        ],
+        [
+          -119.774838,
+          34.415977
+        ],
+        [
+          -119.77495400000001,
+          34.415965
+        ],
+        [
+          -119.77522100000002,
+          34.415959
+        ],
+        [
+          -119.77646020813734,
+          34.4158904057969
+        ]
+      ]
+    },
+    "score": 0.903,
+    "retained": true,
+    "source_url": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/export?bbox=-13333544.207372809%2C4084562.6093060365%2C-13333083.576799167%2C4085023.239879676&bboxSR=3857&imageSR=3857&size=800%2C800&format=png&f=image",
+    "credit": "USDA / USGS The National Map",
+    "license": "Public domain \u00b7 CONUS NAIP",
+    "date": "2017\u20132021 imagery",
+    "observation": "Road is largely concealed by a sustained broadleaf canopy. Plausible candidate from above; street-level enclosure remains unverified."
+  },
+  {
+    "id": "aerial-4",
+    "candidate_id": "110809344157-0-9",
+    "name": "Moore Rd",
+    "coordinates": [
+      -119.6256495500499,
+      34.43892900106896
+    ],
+    "file": "data/photos/aerial-4.png",
+    "bbox_3857": [
+      -13316896.772307474,
+      4087662.4673348297,
+      -13316436.015144825,
+      4088123.224497479
+    ],
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -119.62666718175534,
+          34.43892900258498
+        ],
+        [
+          -119.624932,
+          34.438928999999995
+        ],
+        [
+          -119.624632,
+          34.438922
+        ]
+      ]
+    },
+    "score": 0.933,
+    "retained": true,
+    "source_url": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/export?bbox=-13316896.772307474%2C4087662.4673348297%2C-13316436.015144825%2C4088123.224497479&bboxSR=3857&imageSR=3857&size=800%2C800&format=png&f=image",
+    "credit": "USDA / USGS The National Map",
+    "license": "Public domain \u00b7 CONUS NAIP",
+    "date": "2017\u20132021 imagery",
+    "observation": "Moore Road alignment approximately follows the visible road. Repeated crowns cover parts of the pavement, with gaps; plausible candidate, unverified from street level."
+  },
+  {
+    "id": "aerial-5",
+    "candidate_id": "110809342328-0-269",
+    "name": "N Hope Ave",
+    "coordinates": [
+      -119.74660207191967,
+      34.45045258232252
+    ],
+    "file": "data/photos/aerial-5.png",
+    "bbox_3857": [
+      -13330361.17723356,
+      4089217.9610367115,
+      -13329900.356508153,
+      4089678.781762119
+    ],
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -119.74660755428674,
+          34.450092722177686
+        ],
+        [
+          -119.746607,
+          34.45011699999999
+        ],
+        [
+          -119.746601,
+          34.45035200000001
+        ],
+        [
+          -119.74660590772547,
+          34.45081251065012
+        ]
+      ]
+    },
+    "score": 0.055,
+    "retained": false,
+    "source_url": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/export?bbox=-13330361.17723356%2C4089217.9610367115%2C-13329900.356508153%2C4089678.781762119&bboxSR=3857&imageSR=3857&size=800%2C800&format=png&f=image",
+    "credit": "USDA / USGS The National Map",
+    "license": "Public domain \u00b7 CONUS NAIP",
+    "date": "2017\u20132021 imagery",
+    "observation": "Open pavement with canopy beside the street. Broad nearby-canopy baseline false positive rejected by the center-coverage rule."
+  },
+  {
+    "id": "aerial-6",
+    "candidate_id": "110809346200-0-46",
+    "name": "N Milpas St",
+    "coordinates": [
+      -119.68059940840133,
+      34.42285382675677
+    ],
+    "file": "data/photos/aerial-6.png",
+    "bbox_3857": [
+      -13323013.71825411,
+      4085492.9418067876,
+      -13322553.049699878,
+      4085953.610361019
+    ],
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -119.6803855917885,
+          34.42270104824542
+        ],
+        [
+          -119.680748,
+          34.42296
+        ],
+        [
+          -119.68081235501849,
+          34.42300779942558
+        ]
+      ]
+    },
+    "score": 0.023,
+    "retained": false,
+    "source_url": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/export?bbox=-13323013.71825411%2C4085492.9418067876%2C-13322553.049699878%2C4085953.610361019&bboxSR=3857&imageSR=3857&size=800%2C800&format=png&f=image",
+    "credit": "USDA / USGS The National Map",
+    "license": "Public domain \u00b7 CONUS NAIP",
+    "date": "2017\u20132021 imagery",
+    "observation": "Street center remains visibly open with isolated neighboring crowns; broad baseline false positive rejected."
+  },
+  {
+    "id": "aerial-7",
+    "candidate_id": "110809357547-0-98",
+    "name": "Pardall Rd",
+    "coordinates": [
+      -119.85813927695328,
+      34.413136076998995
+    ],
+    "file": "data/photos/aerial-7.png",
+    "bbox_3857": [
+      -13342777.339251133,
+      4084181.624499798,
+      -13342316.724228272,
+      4084642.2395226574
+    ],
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -119.85790033154638,
+          34.41313737848424
+        ],
+        [
+          -119.85837822236019,
+          34.41313477551376
+        ]
+      ]
+    },
+    "score": 0.021,
+    "retained": false,
+    "source_url": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/export?bbox=-13342777.339251133%2C4084181.624499798%2C-13342316.724228272%2C4084642.2395226574&bboxSR=3857&imageSR=3857&size=800%2C800&format=png&f=image",
+    "credit": "USDA / USGS The National Map",
+    "license": "Public domain \u00b7 CONUS NAIP",
+    "date": "2017\u20132021 imagery",
+    "observation": "Pardall road center is open; adjacent landscaping can satisfy the nearby-canopy baseline but overhead filter correctly rejects this sample."
+  },
+  {
+    "id": "aerial-8",
+    "candidate_id": "110809344693-0-84",
+    "name": "Yaple Ave",
+    "coordinates": [
+      -119.79660575711216,
+      34.44958712387316
+    ],
+    "file": "data/photos/aerial-8.png",
+    "bbox_3857": [
+      -13335927.55961946,
+      4089101.130945757,
+      -13335466.743669078,
+      4089561.9468961386
+    ],
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -119.79636749184016,
+          34.449587682277304
+        ],
+        [
+          -119.79684402238415,
+          34.449586565469005
+        ]
+      ]
+    },
+    "score": 0.064,
+    "retained": false,
+    "source_url": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/export?bbox=-13335927.55961946%2C4089101.130945757%2C-13335466.743669078%2C4089561.9468961386&bboxSR=3857&imageSR=3857&size=800%2C800&format=png&f=image",
+    "credit": "USDA / USGS The National Map",
+    "license": "Public domain \u00b7 CONUS NAIP",
+    "date": "2017\u20132021 imagery",
+    "observation": "Open road center bordered by trees. Nearby-canopy baseline false positive rejected."
+  }
+]

@@ -1,0 +1,68 @@
+:root {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #25362c;
+  background: #edf0e9;
+  font-synthesis: none;
+}
+* { box-sizing: border-box; }
+html, body, #map { height: 100%; width: 100%; margin: 0; }
+#controls {
+  position: absolute;
+  z-index: 1000;
+  top: 20px;
+  left: 20px;
+  width: 290px;
+  padding: 0 16px;
+  border: 1px solid #ffffff;
+  border-radius: 13px;
+  background: #fafbf8f5;
+  box-shadow: 0 3px 22px #25362c1a;
+  font-size: 13px;
+}
+.search-row { display: flex; align-items: center; gap: 9px; height: 48px; border-bottom: 1px solid #e4e8df; }
+.search-row svg { flex-shrink: 0; color: #718078; }
+#search { width: 100%; padding: 8px 0; border: 0; outline: 0; background: transparent; color: inherit; font: inherit; font-size: 14px; }
+#search::placeholder { color: #788279; }
+.score-row { display: flex; align-items: center; gap: 12px; padding: 17px 0; }
+.score-row label { width: 58px; flex-shrink: 0; }
+#score { flex: 1; width: 0; min-width: 0; height: 3px; accent-color: #22704b; cursor: pointer; }
+#score-value { min-width: 40px; color: #5c695e; font-size: 12px; font-variant-numeric: tabular-nums; text-align: right; }
+.layers { display: flex; align-items: center; justify-content: space-between; padding-bottom: 14px; }
+.layers label { display: inline-flex; align-items: center; gap: 5px; cursor: pointer; }
+.layers input { margin: 0; width: 13px; height: 13px; accent-color: #22704b; cursor: pointer; }
+#status { border-top: 1px solid #e4e8df; padding: 10px 0; color: #788279; font-size: 11px; font-variant-numeric: tabular-nums; }
+#status.error { color: #a34434; }
+.leaflet-control-zoom { margin: 20px 20px 0 0 !important; border: 1px solid #fff !important; border-radius: 8px !important; box-shadow: 0 2px 14px #25362c1a !important; overflow: hidden; }
+.leaflet-control-zoom a { color: #405447 !important; background: #fafbf8f5 !important; font-size: 22px !important; font-weight: 400 !important; }
+.leaflet-control-zoom-in { border-bottom-color: #e4e8df !important; }
+.leaflet-control-attribution { font-size: 10px !important; background: #fafbf8da !important; }
+.leaflet-control-attribution a { color: #54765d; }
+.leaflet-popup-content-wrapper { padding: 0; border-radius: 9px; overflow: hidden; box-shadow: 0 4px 22px #16251a26; }
+.leaflet-popup-content { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #25362c; }
+.leaflet-popup-tip { box-shadow: none; }
+.street-popup { padding: 13px 15px; min-width: 175px; }
+.street-popup strong { display: block; font-size: 13px; font-weight: 600; margin-bottom: 6px; }
+.street-popup div { display: flex; gap: 12px; color: #69756d; font-size: 11px; white-space: nowrap; }
+.street-popup a { display: inline-block; margin-top: 10px; color: #176541; font-size: 12px; text-decoration: none; }
+.street-popup a:hover { text-decoration: underline; }
+.photo-popup { width: 100%; }
+.photo-list { width: 280px; max-height: min(560px, calc(100dvh - 215px)); overflow-y: auto; overflow-x: hidden; }
+.photo-list .photo-popup + .photo-popup { border-top: 1px solid #e4e8df; }
+.photo-frame { display: block; position: relative; width: 100%; aspect-ratio: 16 / 9; overflow: hidden; background: #e4e8df; }
+.photo-popup img { position: absolute; left: 50%; top: 50%; width: 100%; height: 100%; object-fit: contain; }
+.photo-frame.turned { aspect-ratio: auto; height: 360px; }
+.photo-frame.turned img { width: 360px; height: 360px; }
+.photo-info { padding: 11px 13px 12px; font-size: 11px; color: #69756d; }
+.photo-info strong { display: block; margin-bottom: 5px; color: #25362c; font-size: 12px; font-weight: 600; }
+.photo-info a { color: #567363; text-decoration: none; }
+.photo-info a:hover { text-decoration: underline; }
+.photo-class { margin-bottom: 7px; font-size: 11px; }
+.photo-info .photo-date { float: right; }
+.photo-license { margin-top: 4px; color: #8a948c; font-size: 10px; }
+.photo-dot { background: #fff; border: 2px solid #2b4d40; border-radius: 50%; box-shadow: 0 1px 5px #25362c50; }
+.photo-dot.verified { border-color: #19774d; background: #dcf3e4; }
+@media (max-width: 600px) {
+  #controls { top: 12px; left: 12px; width: 260px; padding: 0 13px; }
+  .leaflet-control-zoom { margin: 12px 12px 0 0 !important; }
+  .photo-list { width: 250px; }
+}

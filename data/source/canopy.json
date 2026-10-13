@@ -1,0 +1,40 @@
+{
+  "name": "California Urban Tree Canopy 2022",
+  "provider": "USDA Forest Service Region 5 / CAL FIRE",
+  "creators": [
+    "EarthDefine",
+    "Dewberry"
+  ],
+  "source_imagery": "2022 USDA NAIP",
+  "source_resolution_m": 0.6,
+  "coverage": "2020 Census-designated urban areas in California; requested extent Santa Barbara CA Urban Area (GEOID 79282), including Goleta",
+  "method": "Deep Convolutional Neural Network tree canopy classification",
+  "service": "https://tiles.arcgis.com/tiles/gGHDlz6USftL5Pau/arcgis/rest/services/UrbanTreeCanopy_CA2022/MapServer",
+  "item": "https://www.arcgis.com/home/item.html?id=65b38bfb9f5145498f313a97844a415e",
+  "documentation": "https://urban-and-community-forestry-calfire-forestry.hub.arcgis.com/pages/california-urban-tree-canopy-data",
+  "credits": "USDA Forest Service, CAL FIRE, NOAA; tree canopy by EarthDefine and Dewberry",
+  "license": "Publicly accessible official data and download; ArcGIS item does not specify a license (licenseInfo=null). Retain source attribution; no unverified public-domain claim.",
+  "native_tile_zoom": 18,
+  "tile_projection": "EPSG:3857",
+  "tile_resolution_projected_m": 0.597164283559817,
+  "local_ground_pixel_size_approx_m": 0.493,
+  "tile_size_px": 256,
+  "tile_format": "indexed PNG8",
+  "tile_classes": {
+    "0": "transparent non-canopy or outside mapped urban area",
+    "1": "mapped canopy"
+  },
+  "nodata": 255,
+  "missing_tile_handling": "HTTP 404 persisted in .missing.json; samples return 255, never silently zero",
+  "coverage_geometry": "data/source/canopy_coverage.geojson",
+  "coverage_source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_Census2020/MapServer/88/query?f=geojson&where=1%3D1&geometry=-119.93%2C34.37%2C-119.52%2C34.53&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&outSR=4326&outFields=%2A",
+  "comparison": {
+    "EarthDefine Tree Map": "Equivalent 60 cm canopy across contiguous US; full source is commercial, only samples free",
+    "USFS NLCD TCC": "Public national 30 m grid, too coarse for roadway canopy intersection"
+  },
+  "nationwide_product": "https://www.earthdefine.com/treemap/",
+  "national_public_product": "https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/",
+  "county_download": "https://rdipowerplatformfd-e5hhgqaahef7fbdr.a02.azurefd.net/urbanforestry/CALFIRE_UrbanCanopy_SantaBarbaraCounty.zip",
+  "county_download_bytes": 162071910,
+  "county_download_contents": "File geodatabase containing 2018 canopy, 2022 canopy, and canopy change rasters; official CAL FIRE data hub county link."
+}

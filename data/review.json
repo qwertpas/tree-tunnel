@@ -1,0 +1,663 @@
+{
+  "reviewed_on": "2026-10-12",
+  "reviewer": "Codex multimodal visual inspection",
+  "criterion": "A roadway tree tunnel needs branches above the pavement and substantial continuous overhead enclosure. Roadside greenery, median plantings, shade from structures, and adjacent trail canopy do not establish a roadway tunnel.",
+  "references": [
+    {
+      "title": "East Anapamu Street at Laguna Street",
+      "source_url": "https://sbparksandrec.santabarbaraca.gov/projects/anapamu-street-italian-stone-pine-pruning-and-removals",
+      "image_url": "https://santabarbaraca.gov/sites/default/files/2024-05/Anapamu%20Italian%20Stone%20Pines-12.jpg",
+      "date": "2024-05",
+      "date_kind": "publication month; capture date unspecified",
+      "classification": "tunnel",
+      "notes": "Two rows of mature stone pines have branches reaching over the street and repeat down a shaded corridor. Visible sky gaps do not prevent a substantial sense of overhead enclosure. Official source describes 2024 removals; this older photo does not confirm current condition.",
+      "embedded": false,
+      "reason": "Reuse license not established"
+    },
+    {
+      "title": "Bundy Canyon Road, Wildomar, California",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Wildomar_tree_tunnel_2.jpg",
+      "date": "2019-03-18",
+      "date_kind": "capture date",
+      "classification": "tunnel",
+      "credit": "Seauton / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "notes": "Dense foliage arches across both vehicle lanes and obscures the center sky over a sustained road section. Used only as a visual reference outside the study area.",
+      "embedded": false,
+      "reason": "Outside Santa Barbara study area"
+    }
+  ],
+  "photos": [
+    {
+      "photo_id": "1328205017",
+      "title": "Modoc Rd — side-facing view",
+      "classification": "insufficient",
+      "context": "side-facing",
+      "notes": "Motion blur and side-facing vegetation obscure the roadway; cannot judge overhead enclosure.",
+      "rotation": 0,
+      "road_name": null
+    },
+    {
+      "photo_id": "1014112106",
+      "title": "Maria Ygnacio Creek Trail near Ribera Dr",
+      "classification": "tree-lined",
+      "context": "trail",
+      "notes": "Tree cover shades the trail. Image is on a bike path, so it cannot verify Ribera Drive.",
+      "rotation": 90,
+      "road_name": null
+    },
+    {
+      "photo_id": "1014111374",
+      "title": "Maria Ygnacio Creek Trail near Tabano Way",
+      "classification": "open",
+      "context": "trail",
+      "notes": "Open sky above this bike-path stretch; roadside plants do not form a tunnel.",
+      "rotation": 90,
+      "road_name": null
+    },
+    {
+      "photo_id": "1014112314",
+      "title": "Maria Ygnacio Creek Trail near Lassen Dr",
+      "classification": "tunnel",
+      "context": "trail",
+      "notes": "Branches enclose a narrow cycling path for a short visible stretch; this does not establish a roadway tunnel on Lassen Drive.",
+      "rotation": 90,
+      "road_name": null
+    },
+    {
+      "photo_id": "368102211",
+      "title": "San Marcos Pass Rd near Primavera Rd",
+      "classification": "open",
+      "context": "road",
+      "notes": "Broad roadway has clear open sky. Shrubs and trees stand beside the pavement.",
+      "rotation": 0,
+      "road_name": "State Rte 154"
+    },
+    {
+      "photo_id": "1421976745",
+      "title": "Storke Rd at Phelps Rd",
+      "classification": "tree-lined",
+      "context": "road",
+      "notes": "Mature trees and planted median, but the vehicle lanes remain exposed to open sky.",
+      "rotation": 0,
+      "road_name": "Storke Rd"
+    },
+    {
+      "photo_id": "1422593801",
+      "title": "Storke Rd at Phelps Rd",
+      "classification": "tree-lined",
+      "context": "road",
+      "notes": "Dusk view in the opposite direction; large roadside trees do not close over the wide roadway.",
+      "rotation": 0,
+      "road_name": "Storke Rd"
+    },
+    {
+      "photo_id": "1421976521",
+      "title": "Storke Rd at Whittier Dr",
+      "classification": "tree-lined",
+      "context": "road",
+      "notes": "Trees border a wide divided roadway; no continuous overhead closure.",
+      "rotation": 0,
+      "road_name": "Storke Rd"
+    },
+    {
+      "photo_id": "1422594041",
+      "title": "Storke Rd at Whittier Dr",
+      "classification": "tree-lined",
+      "context": "road",
+      "notes": "Dusk view shows open center sky above the divided roadway.",
+      "rotation": 0,
+      "road_name": "Storke Rd"
+    },
+    {
+      "photo_id": "1250505053",
+      "title": "North Ontare Rd at State St",
+      "classification": "insufficient",
+      "context": "road",
+      "notes": "Night capture and intersection framing cannot establish canopy continuity along Ontare Road.",
+      "rotation": 0,
+      "road_name": "N Ontare Rd"
+    },
+    {
+      "photo_id": "1014110022",
+      "title": "Atascadero Creek Trail near More Ranch Rd",
+      "classification": "tree-lined",
+      "context": "trail",
+      "notes": "Trees partly shade a bike path with a large central sky opening; cannot verify the adjacent roadway.",
+      "rotation": 90,
+      "road_name": null
+    },
+    {
+      "photo_id": "378529088",
+      "title": "Storke Rd at Calle Real",
+      "classification": "open",
+      "context": "road",
+      "notes": "Broad signalized intersection and highway approach are exposed to open sky.",
+      "rotation": 0,
+      "road_name": "Storke Rd"
+    },
+    {
+      "photo_id": "432584150",
+      "title": "US 101 at Las Palmas Dr",
+      "classification": "open",
+      "context": "road",
+      "notes": "Shade is cast by a concrete bridge, not an overhead tree canopy.",
+      "rotation": 0,
+      "road_name": null
+    },
+    {
+      "photo_id": "368205211",
+      "title": "US 101 at Las Palmas Dr",
+      "classification": "open",
+      "context": "road",
+      "notes": "A second capture confirms bridge shade above freeway lanes; trees remain beside the road.",
+      "rotation": 0,
+      "road_name": null
+    },
+    {
+      "photo_id": "368032229",
+      "title": "Henry T. Yang Drive, UCSB",
+      "classification": "tree-lined",
+      "context": "road",
+      "notes": "Large roadside and median trees leave a substantial open sky above both vehicle lanes; this view does not show a tunnel.",
+      "rotation": 0,
+      "road_name": "Henry T. Yang Drive",
+      "sampled_candidate_id": "110809364758-0-81",
+      "sampled_candidate_score": 0.7,
+      "sampled_candidate_name": "University Rd",
+      "baseline_candidate_id": "110809364758-0-81",
+      "historical_road_name": "University Rd",
+      "current_name_check": "The current OSM geometry is named Henry T. Yang Drive and lies 1.9–7.9 m from the recorded image positions. Old University/Mesa Road names came from the Census baseline."
+    },
+    {
+      "photo_id": "368204277",
+      "title": "Henry T. Yang Drive, UCSB",
+      "classification": "tree-lined",
+      "context": "road",
+      "notes": "Opposite-direction capture shows tall median eucalyptus with open vehicle lanes. Candidate centerline canopy can represent the median instead of overhead road enclosure.",
+      "rotation": 0,
+      "road_name": "Henry T. Yang Drive",
+      "sampled_candidate_id": "110809364758-0-81",
+      "sampled_candidate_score": 0.7,
+      "sampled_candidate_name": "University Rd",
+      "baseline_candidate_id": "110809364758-0-81",
+      "historical_road_name": "University Rd",
+      "current_name_check": "The current OSM geometry is named Henry T. Yang Drive and lies 1.9–7.9 m from the recorded image positions. Old University/Mesa Road names came from the Census baseline."
+    },
+    {
+      "photo_id": "368029437",
+      "title": "Henry T. Yang Drive, UCSB",
+      "classification": "tree-lined",
+      "context": "road",
+      "notes": "Branches extend partly over the near lane, but the wide road retains an open central sky and the visible section is not a continuous tunnel.",
+      "rotation": 0,
+      "road_name": "Henry T. Yang Drive",
+      "sampled_candidate_id": "1104484244151-0-80",
+      "sampled_candidate_score": 0.647,
+      "sampled_candidate_name": "Mesa Rd",
+      "baseline_candidate_id": "1104484244151-0-80",
+      "historical_road_name": "Mesa Rd",
+      "current_name_check": "The current OSM geometry is named Henry T. Yang Drive and lies 1.9–7.9 m from the recorded image positions. Old University/Mesa Road names came from the Census baseline."
+    },
+    {
+      "photo_id": "130333033",
+      "title": "State St",
+      "classification": "tunnel",
+      "context": "road",
+      "notes": "Broadleaf branches extend over the vehicle lanes from both sides and repeat into the distance, creating substantial overhead enclosure with some sky gaps. Capture is from 2017 and cannot establish current condition.",
+      "rotation": 0,
+      "road_name": "State St",
+      "sampled_candidate_id": "11031808780676-0-207",
+      "sampled_candidate_score": 0.572,
+      "sampled_candidate_name": "State St",
+      "baseline_candidate_id": "11031808780676-0-207",
+      "position_check": "GPS [-119.695909,34.417135] is 3.7 m from the baseline TIGER State Street centerline and 3.4 m from current OSM way 1548713453. This lies 53 m from Haley Street. The capture looks along State Street and shows the Primo restaurant, Jewish Federation flags, and substantial overhead branches repeating above the roadway. The 2017 photo is historical evidence only.",
+      "current_street_tags": {
+        "way_id": 1548713453,
+        "name": "State Street",
+        "highway": "pedestrian",
+        "motor_vehicle": "no",
+        "foot": "designated",
+        "bicycle": "designated"
+      },
+      "source_selection_note": "The OSM street geometry is correctly located. Vehicle-only class selection would omit this pedestrianized street, so include pedestrian streets for walking-oriented tunnel browsing."
+    },
+    {
+      "photo_id": "1328206953",
+      "title": "Hollister Ave — side-facing view",
+      "classification": "insufficient",
+      "context": "side-facing",
+      "notes": "A side-facing grove view obscures most of the roadway; cannot determine canopy continuity above the candidate lanes.",
+      "rotation": 0,
+      "road_name": null,
+      "sampled_candidate_id": "11013782275959-0-45",
+      "sampled_candidate_score": 0.509,
+      "sampled_candidate_name": "Hollister Ave",
+      "baseline_candidate_id": "11013782275959-0-45"
+    },
+    {
+      "photo_id": "1250503413",
+      "title": "Hitchcock Way — night view",
+      "classification": "insufficient",
+      "context": "road",
+      "notes": "Night exposure obscures canopy details and cannot reliably establish overhead enclosure.",
+      "rotation": 0,
+      "road_name": "Hitchcock Way",
+      "sampled_candidate_id": "110809362667-0-167",
+      "sampled_candidate_score": 0.442,
+      "sampled_candidate_name": "Hitchcock Way",
+      "baseline_candidate_id": "110809362667-0-167"
+    },
+    {
+      "photo_id": "1328203625",
+      "title": "Ninos Dr — side-facing view",
+      "classification": "insufficient",
+      "context": "side-facing",
+      "notes": "Elevated side-facing view shows a parking area and nearby trees; not a view along the road and cannot verify an overhead street tunnel.",
+      "rotation": 0,
+      "road_name": null,
+      "sampled_candidate_id": "110809344168-0-15",
+      "sampled_candidate_score": 0.543,
+      "sampled_candidate_name": "Ninos Dr",
+      "baseline_candidate_id": "110809344168-0-15"
+    },
+    {
+      "photo_id": "1333513573",
+      "title": "Ninos Dr — side-facing view",
+      "classification": "insufficient",
+      "context": "side-facing",
+      "notes": "Second side-facing capture looks through trunks toward parking spaces, so it cannot establish roadway canopy continuity.",
+      "rotation": 0,
+      "road_name": null,
+      "sampled_candidate_id": "110809344168-0-15",
+      "sampled_candidate_score": 0.543,
+      "sampled_candidate_name": "Ninos Dr",
+      "baseline_candidate_id": "110809344168-0-15"
+    },
+    {
+      "photo_id": "1328204233",
+      "title": "Wentworth Ave — side-facing view",
+      "classification": "insufficient",
+      "context": "side-facing",
+      "notes": "Trees and homes seen sideways across a rail-side verge do not reveal an enclosed view along the roadway.",
+      "rotation": 0,
+      "road_name": null,
+      "sampled_candidate_id": "110809363500-0-25",
+      "sampled_candidate_score": 0.413,
+      "sampled_candidate_name": "Wentworth Ave",
+      "baseline_candidate_id": "110809363500-0-25"
+    },
+    {
+      "photo_id": "1014111566",
+      "title": "North San Marcos Rd at Hollister Ave",
+      "classification": "insufficient",
+      "context": "road",
+      "notes": "Sideways intersection view has open sky here, but it does not face along the candidate segment ahead. Road tunnel continuity cannot be judged from this framing.",
+      "rotation": 90,
+      "road_name": "N San Marcos Rd",
+      "sampled_candidate_id": "110809364331-0-91",
+      "sampled_candidate_score": 0.748,
+      "sampled_candidate_name": "N San Marcos Rd",
+      "baseline_candidate_id": "110809364331-0-91"
+    }
+  ],
+  "sampling_limits": "24 KartaView photos at 19 sampled locations/road stretches (some dates share a location). Initial controls include adjacent trails and freeways. Eight map candidates were sampled at directly overlapping KartaView coverage, but only three roadway locations had conclusive framing. Captures span 2017–2022. They are historical evidence, not current field verification or a statistical accuracy estimate.",
+  "candidate_observations": {
+    "locations_sampled": 8,
+    "photo_count": 10,
+    "conclusive_roadway_locations": 3,
+    "positive": "State St: substantial overhead enclosure in 2017 capture; current condition unverified.",
+    "false_positives": [
+      "University Rd: divided street and planted median misrepresent road enclosure. Two opposite-direction photos show open lanes.",
+      "Mesa Rd: some overhanging canopy but broad central sky; does not meet the continuous enclosure criterion."
+    ],
+    "unresolved": [
+      "West Hollister Ave, Ninos Dr and Wentworth Ave: side-facing framing.",
+      "Hitchcock Way: night capture.",
+      "North San Marcos Rd: intersection framing."
+    ],
+    "filter_feedback": [
+      "Use road-center and both-side canopy instead of general nearby greenery.",
+      "Inspect divided roads and planted medians for centerline misalignment before trusting a high canopy score.",
+      "Only attach a positive roadway verification when image position, visible road, direction, and context actually match the candidate.",
+      "Include pedestrian-designated streets: current OSM State Street is pedestrian/motor_vehicle=no, despite its useful historical tunnel evidence. Generic footways and cycling trails remain separate from street-level roadway evidence."
+    ],
+    "limits": "This targeted sample is too small and imagery too old to estimate map-wide precision or recall; qualitative feedback only.",
+    "stage": "TIGER/USFS baseline before OSM replacement",
+    "data_selection_feedback": "TIGER centerlines can occupy planted medians or mapped road continuations beyond real pavement. Replace them with OpenStreetMap geometry and explicit road tags before final ranking."
+  },
+  "street_source_checks": [
+    {
+      "name": "State Street",
+      "osm_way_id": 1548713453,
+      "highway": "pedestrian",
+      "motor_vehicle": "no",
+      "foot": "designated",
+      "observation": "A real street corridor with historical tunnel evidence. Included after correcting vehicle-only street selection."
+    },
+    {
+      "name": "Henry T. Yang Drive",
+      "historical_names": [
+        "University Rd",
+        "Mesa Rd"
+      ],
+      "observation": "Current OSM carriageways are 1.9–7.9 m from the three historical image positions. Physical street identity is established despite the name change."
+    },
+    {
+      "name": "Las Olas Drive",
+      "osm_way_id": 16259481,
+      "highway": "residential",
+      "access": "private",
+      "observation": "Initial OSM selection excluded this access=private road. The final map retains the plausible canopy corridor and preserves access=private metadata; it is not a canopy false-positive rejection."
+    },
+    {
+      "name": "Mathilda Drive",
+      "osm_way_id": 16258017,
+      "highway": "residential",
+      "observation": "No private access tag. The old Census aerial review point is more than 41 m from included OSM pavement; this supports replacement of the erroneous street geometry."
+    }
+  ],
+  "final_matches": {
+    "street_source": "OpenStreetMap streets",
+    "criterion": "Exact normalized street name and image position within 20 m of a candidate; KartaView matches also require roadway context. This associates historical imagery with a candidate and does not verify current tunnel conditions.",
+    "photo_count": 32,
+    "photos": [
+      {
+        "id": "kartaview-1328205017",
+        "candidate_id": null,
+        "baseline_candidate_id": null,
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-1014112106",
+        "candidate_id": null,
+        "baseline_candidate_id": null,
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-1014111374",
+        "candidate_id": null,
+        "baseline_candidate_id": null,
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-1014112314",
+        "candidate_id": null,
+        "baseline_candidate_id": null,
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-368102211",
+        "candidate_id": null,
+        "baseline_candidate_id": null,
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-1421976745",
+        "candidate_id": null,
+        "baseline_candidate_id": null,
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-1422593801",
+        "candidate_id": null,
+        "baseline_candidate_id": null,
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-1421976521",
+        "candidate_id": null,
+        "baseline_candidate_id": null,
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-1422594041",
+        "candidate_id": null,
+        "baseline_candidate_id": null,
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-1250505053",
+        "candidate_id": null,
+        "baseline_candidate_id": null,
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-1014110022",
+        "candidate_id": null,
+        "baseline_candidate_id": null,
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-378529088",
+        "candidate_id": null,
+        "baseline_candidate_id": null,
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-432584150",
+        "candidate_id": null,
+        "baseline_candidate_id": null,
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-368205211",
+        "candidate_id": null,
+        "baseline_candidate_id": null,
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-368032229",
+        "candidate_id": null,
+        "baseline_candidate_id": "110809364758-0-81",
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-368204277",
+        "candidate_id": null,
+        "baseline_candidate_id": "110809364758-0-81",
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-368029437",
+        "candidate_id": null,
+        "baseline_candidate_id": "1104484244151-0-80",
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-130333033",
+        "candidate_id": "osm-1548713453-0-11",
+        "baseline_candidate_id": "11031808780676-0-207",
+        "outside_candidates": false
+      },
+      {
+        "id": "kartaview-1328206953",
+        "candidate_id": null,
+        "baseline_candidate_id": "11013782275959-0-45",
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-1250503413",
+        "candidate_id": null,
+        "baseline_candidate_id": "110809362667-0-167",
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-1328203625",
+        "candidate_id": null,
+        "baseline_candidate_id": "110809344168-0-15",
+        "outside_candidates": false
+      },
+      {
+        "id": "kartaview-1333513573",
+        "candidate_id": null,
+        "baseline_candidate_id": "110809344168-0-15",
+        "outside_candidates": false
+      },
+      {
+        "id": "kartaview-1328204233",
+        "candidate_id": null,
+        "baseline_candidate_id": "110809363500-0-25",
+        "outside_candidates": true
+      },
+      {
+        "id": "kartaview-1014111566",
+        "candidate_id": "osm-69727518-0-0",
+        "baseline_candidate_id": "110809364331-0-91",
+        "outside_candidates": false
+      },
+      {
+        "id": "aerial-1",
+        "candidate_id": null,
+        "baseline_candidate_id": "110809361232-1-0",
+        "outside_candidates": true
+      },
+      {
+        "id": "aerial-2",
+        "candidate_id": "osm-70331795-0-0",
+        "baseline_candidate_id": "110809347124-0-156",
+        "outside_candidates": false
+      },
+      {
+        "id": "aerial-3",
+        "candidate_id": "osm-16259481-0-0",
+        "baseline_candidate_id": "110809361126-0-0",
+        "outside_candidates": false
+      },
+      {
+        "id": "aerial-4",
+        "candidate_id": "osm-16263953-0-11",
+        "baseline_candidate_id": "110809344157-0-9",
+        "outside_candidates": false
+      },
+      {
+        "id": "aerial-5",
+        "candidate_id": null,
+        "baseline_candidate_id": "110809342328-0-269",
+        "outside_candidates": true
+      },
+      {
+        "id": "aerial-6",
+        "candidate_id": null,
+        "baseline_candidate_id": "110809346200-0-46",
+        "outside_candidates": true
+      },
+      {
+        "id": "aerial-7",
+        "candidate_id": null,
+        "baseline_candidate_id": "110809357547-0-98",
+        "outside_candidates": true
+      },
+      {
+        "id": "aerial-8",
+        "candidate_id": null,
+        "baseline_candidate_id": "110809344693-0-84",
+        "outside_candidates": true
+      }
+    ]
+  },
+  "final_comparison": {
+    "street_source": "OpenStreetMap streets",
+    "canopy_source": "USFS/CAL FIRE 2022 canopy",
+    "candidate_count": 575,
+    "comparison": [
+      {
+        "id": "aerial-1",
+        "name": "Mathilda Dr",
+        "baseline_candidate_id": "110809361232-1-0",
+        "final_status": "removed",
+        "final_candidate_id": null,
+        "distance_to_nearest_candidate_m": 1341.2,
+        "distance_to_nearest_street_m": 41.2,
+        "final_score": null,
+        "final_access": null,
+        "reason": "Erroneous Census road extension beyond visible pavement removed by OSM geometry."
+      },
+      {
+        "id": "kartaview-368032229",
+        "name": "Henry T. Yang Drive, UCSB",
+        "baseline_candidate_id": "110809364758-0-81",
+        "final_status": "removed",
+        "final_candidate_id": null,
+        "distance_to_nearest_candidate_m": 576.8,
+        "distance_to_nearest_street_m": 1.9,
+        "final_score": null,
+        "final_access": null,
+        "reason": "OSM locates actual Henry T. Yang Drive carriageways; width-aware canopy rule rejects the open roadway."
+      },
+      {
+        "id": "kartaview-368204277",
+        "name": "Henry T. Yang Drive, UCSB",
+        "baseline_candidate_id": "110809364758-0-81",
+        "final_status": "removed",
+        "final_candidate_id": null,
+        "distance_to_nearest_candidate_m": 575.2,
+        "distance_to_nearest_street_m": 4.8,
+        "final_score": null,
+        "final_access": null,
+        "reason": "Opposite direction on the same divided street also rejected; planted median no longer supplies road-center evidence."
+      },
+      {
+        "id": "kartaview-368029437",
+        "name": "Henry T. Yang Drive, UCSB",
+        "baseline_candidate_id": "1104484244151-0-80",
+        "final_status": "removed",
+        "final_candidate_id": null,
+        "distance_to_nearest_candidate_m": 271.7,
+        "distance_to_nearest_street_m": 2.3,
+        "final_score": null,
+        "final_access": null,
+        "reason": "Actual roadway geometry and width reject the partly overhanging but open campus lanes."
+      },
+      {
+        "id": "kartaview-130333033",
+        "name": "State St",
+        "baseline_candidate_id": "11031808780676-0-207",
+        "final_status": "retained",
+        "final_candidate_id": "osm-1548713453-0-11",
+        "distance_to_nearest_candidate_m": 3.4,
+        "distance_to_nearest_street_m": 3.4,
+        "final_score": 0.591,
+        "final_access": null,
+        "reason": "Named pedestrian street included; canopy criterion retains this historically supported road corridor."
+      },
+      {
+        "id": "aerial-2",
+        "name": "E Anapamu St",
+        "baseline_candidate_id": "110809347124-0-156",
+        "final_status": "retained",
+        "final_candidate_id": "osm-70331795-0-0",
+        "distance_to_nearest_candidate_m": 1.5,
+        "distance_to_nearest_street_m": 1.5,
+        "final_score": 0.777,
+        "final_access": null,
+        "reason": "Repeated crowns above actual Anapamu pavement retained."
+      },
+      {
+        "id": "aerial-3",
+        "name": "Las Olas Dr",
+        "baseline_candidate_id": "110809361126-0-0",
+        "final_status": "retained",
+        "final_candidate_id": "osm-16259481-0-0",
+        "distance_to_nearest_candidate_m": 3.0,
+        "distance_to_nearest_street_m": 3.0,
+        "final_score": 0.881,
+        "final_access": "private",
+        "reason": "Plausible canopy corridor retained with access=private metadata. No current street-level confirmation."
+      },
+      {
+        "id": "aerial-4",
+        "name": "Moore Rd",
+        "baseline_candidate_id": "110809344157-0-9",
+        "final_status": "retained",
+        "final_candidate_id": "osm-16263953-0-11",
+        "distance_to_nearest_candidate_m": 3.1,
+        "distance_to_nearest_street_m": 3.1,
+        "final_score": 0.878,
+        "final_access": null,
+        "reason": "Plausible repeated canopy above Moore Road pavement retained; street-level enclosure unverified."
+      }
+    ],
+    "limits": "Targeted qualitative checks only. They show improvements for observed failure cases and retention of plausible positives; they do not estimate citywide precision or recall. Historical photos cannot verify current tree conditions."
+  }
+}

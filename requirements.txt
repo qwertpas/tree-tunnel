@@ -1,0 +1,6 @@
+numpy
+Pillow
+requests
+shapely>=2.1
+pyproj
+osmium==4.3.1

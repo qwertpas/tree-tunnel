@@ -1,0 +1,40 @@
+{
+  "name": "OpenStreetMap streets",
+  "url": "https://download.geofabrik.de/north-america/us/california/socal-261012.osm.pbf",
+  "provider": "Geofabrik Southern California extract",
+  "license": "Open Database License (ODbL)",
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "license_url": "https://www.openstreetmap.org/copyright",
+  "bounds": [
+    -119.93,
+    34.37,
+    -119.52,
+    34.53
+  ],
+  "classes": [
+    "living_street",
+    "pedestrian",
+    "primary",
+    "residential",
+    "secondary",
+    "service",
+    "tertiary",
+    "unclassified"
+  ],
+  "roads": 6242,
+  "snapshot": "2026-10-12T20:21:35Z",
+  "exclusions": [
+    "Access explicitly denied",
+    "Unnamed private ways and private ways outside residential/service/pedestrian classes",
+    "Motor access denied on vehicle roads",
+    "Pedestrian areas, unnamed pedestrian ways, denied pedestrian foot access",
+    "Parking aisles, driveways, drive-throughs, emergency access",
+    "Unnamed service ways except explicit alleys"
+  ],
+  "pedestrian_policy": "Named pedestrian street corridors remain eligible when cars are prohibited",
+  "private_policy": "Named private residential, service and pedestrian streets remain eligible and are marked private",
+  "private_streets": 843,
+  "regional_cache": "data/source/roads-osm-region.json",
+  "width_tagged": 10,
+  "lanes_tagged": 2040
+}
